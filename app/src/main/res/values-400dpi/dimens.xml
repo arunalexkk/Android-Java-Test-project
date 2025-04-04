@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base">3dp</dimen>
+    <dimen name="fontsize">31sp</dimen>
+    <dimen name="edittextHeight">70dp</dimen>
+</resources>
